@@ -16,7 +16,7 @@ body {
 	--color-link-hover: #000;
 	--color-deco: #fae3d7;
 	color: var(--color-text);
-	background-color: #d9d8da;
+	background-color: #60cae8;
 	font-family: paralucent, sans-serif;
 	font-family: quiroh, sans-serif;
 	font-family: mr-eaves-xl-sans, sans-serif;
@@ -447,7 +447,7 @@ padding-left: 5%;
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: #12597c;
+	background: #60cae8;
 
 }
 
