@@ -357,7 +357,7 @@ a:focus {
 {
 	font-weight: 200;
 	
-	color: #white;
+	color: white;
 }
 
 
@@ -450,7 +450,7 @@ padding-left: 5%;
 	height: 100%;
 	top: 0;
 	left: 0;
-	background: #60cae8;
+	background: linear-gradient(to left, #161515, #291e1e);
 
 }
 
