@@ -602,6 +602,20 @@ padding-left: 5%;
 	}
 }
 
+.icons
+{
+	text-align: center;
+}
+
+.icons > a > img
+{
+
+	height: 15vh;
+	display: inline-block;
+	padding-left: 2vh;
+	padding-right: 2vh;
+
+}
 
 
 
@@ -632,6 +646,15 @@ padding-left: 5%;
 		margin-top: 10%;
 		margin-bottom: 10%;
 	}
+
+	.icons > a > img
+	{
+
+		height: 10vh;
+	
+
+	}
+
 }
 
 
