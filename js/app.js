@@ -324,15 +324,13 @@ var typed = new Typed('#work', {
 })();
 
 
-var secondsection = document.getElementById("second-section");
   
 
 
-$('#test1').click(function(){
-
-    window.alert("rex");
-    // $("#ds").removeData([data-scroll]);
-
-
-    
+jQuery('.scroll_to').click(function(e){
+    $("#overlay-close").trigger( "click");
+    var jump = $(this).attr('href');
+    var new_position = $(jump).offset();
+    $('html, body').stop().animate({ scrollTop: new_position.top }, 500);
+    e.preventDefault();
 });
