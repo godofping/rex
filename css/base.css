@@ -115,7 +115,7 @@ a:focus {
 	flex-direction: column;
 	position: relative;
 	align-items: center;
-	padding: 12rem 0;
+	padding: 6rem 0;
 	counter-reset: figure; 
 }
 
@@ -423,9 +423,16 @@ background-image: url("data:image/svg+xml,%3Csvg width='180' height='180' viewBo
 
 .h2-works
 {
-	font-weight: 800;
+	font-weight: 00;
 	font-size: 5rem;
 	color: white;
+	padding-bottom: 5vh;
+	text-align: center;
+
+	
+
+	
+
 }
 
 .links
