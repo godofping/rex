@@ -327,14 +327,12 @@ var typed = new Typed('#work', {
 var secondsection = document.getElementById("second-section");
   
 
-$('#facebook').click(function(){
 
-    $("#overlay-close").trigger( "click");
-    
-});
+$('#test1').click(function(){
 
-$('#github').click(function(){
+    window.alert("rex");
+    // $("#ds").removeData([data-scroll]);
 
-    $("#overlay-close").trigger( "click");
+
     
 });

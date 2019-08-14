@@ -617,6 +617,13 @@ padding-left: 5%;
 
 }
 
+.thank-you
+{
+	font-weight: 300;
+	padding-top: 5%;
+	font-size: 4vh;
+}
+
 
 
 
@@ -651,8 +658,12 @@ padding-left: 5%;
 	{
 
 		height: 10vh;
-	
 
+	}
+
+	.headline
+	{
+		font-size: 1.8rem;
 	}
 
 }
