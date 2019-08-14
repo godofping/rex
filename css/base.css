@@ -16,7 +16,7 @@ body {
 	--color-link-hover: rgb(207, 202, 202);
 	--color-deco: #fae3d7;
 	color: var(--color-text);
-	background-color: #252627;
+	background: linear-gradient(to right, #161515, #291e1e);
 	font-family: paralucent, sans-serif;
 	font-family: quiroh, sans-serif;
 	font-family: mr-eaves-xl-sans, sans-serif;
