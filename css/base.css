@@ -241,6 +241,7 @@ a:focus {
 
 .item__caption-copy {
 	margin: 0;
+	
 }
 
 .item__caption-copy::before {
