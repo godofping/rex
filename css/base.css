@@ -505,6 +505,7 @@ padding-left: 5%;
 	outline: none;
 	z-index: 100;
 	grid-column: 3/3;
+	cursor:pointer;
 
 
 	
